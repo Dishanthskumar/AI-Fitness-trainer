@@ -9,10 +9,18 @@ The AI Fitness Tracker App is an innovative and interactive fitness application 
 
 
 ## Getting started
-1.Clone the repository to your local machine.\
-2.Install the required dependencies by running the following command:\
+1. Clone the repository to your local machine.\
+2. Install the required dependencies by running the following command:\
 ``` py
 pip install streamlit
 pip install opencv-python mediapipe
 pip install streamlit-lottie
+```
+3. Go to the models directory
+``` py
+cd models
+```
+4. Run the application
+``` py
+streamlit run 1_🏠_Home.py
 ```
