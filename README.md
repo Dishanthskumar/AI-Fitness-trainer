@@ -5,4 +5,4 @@ The AI Fitness Tracker App is an innovative and interactive fitness application 
 2.Rep counting.\
 3.Tutorials of each excercise(both video as well as text based)\
 4.Daily Nutrition Tracker\
-5.FitBot(Our chatbot)\
+5.FitBot(Our chatbot)
