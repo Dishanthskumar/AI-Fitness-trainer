@@ -9,8 +9,8 @@ The AI Fitness Tracker App is an innovative and interactive fitness application 
 
 
 ## Getting started
-1. Clone the repository to your local machine.\
-2. Install the required dependencies by running the following command:\
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running the following command:
 ``` py
 pip install streamlit
 pip install opencv-python mediapipe
@@ -24,3 +24,7 @@ cd models
 ``` py
 streamlit run 1_🏠_Home.py
 ```
+
+Make the following changes in the code :
+  - Make sure to use your OpenAi API key to enable the chatbot.(Change to be made in 4_🤖_Chatbot.py file)
+  - Make sure to put in your email id to allow form submission.(Change to be made in 1_🏠_Home.py file)
